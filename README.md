@@ -1,16 +1,35 @@
-## Hi there 👋
+# **👋 Hi, I'm Alessio Sardano**
 
-<!--
-**AlessioSardano/AlessioSardano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **📖 Someting about Me**
+I am a student learning programming and software development. I enjoy solving problems 🧩 and building small projects 🛠️ to practice my skills.
 
-Here are some ideas to get you started:
+## **💻 Skills**
+- *🐍 Programming languages: C#, C, Python**
+- *📄 Web basics: HTML, CSS, JavaScript**
+- *🧰 Tools: Git Hub, Visual Studio Code, Visual Studio 2022**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## **🎓 What I'm Learning**
+- *🐍 Basics of programming**
+- *🌐 Introduction to web development (HTML, CSS, JavaScript)**
+- *📊 Fundamentals of algorithms and data structures**
+
+## **🎯 My Goals**
+- *📈 Improve my programming skills**
+- *🌍 Build real-world projects, which means creating applications and programs that people can use in everyday life**
+- *🤝 Contribute to open source in the future**
+
+## **⏰ In my free time, I like to:**
+- *👫 Hang out with friends**
+- *🏍️ Ride my motorcycle and explore new places**
+- *🎧 Listen to music**
+- *🏋️ Go to the gym**
+- *👨‍👩‍👧‍👦 Spend time with my family**
+- *🎬 Go to the cinema**
+- *🍿 Watch movies**
+
+## **📫 Contact**
+- *📧 Email: sardanoale124@gmail.com**
+
+---
+
+*😊 Thank you for visiting my profile!**
