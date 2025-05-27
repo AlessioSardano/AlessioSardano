@@ -27,9 +27,6 @@
 - *🎬 Go to the cinema*
 - *🍿 Watch movies*
 
-## **📫 Contact**
-- *📧 Email: sardanoale124@gmail.com*
-
 ---
 
 *😊 Thank you for visiting my profile!*
