@@ -1,4 +1,4 @@
-# **👋 Hi, I'm Alessio Sardano**
+# **👋 Alessio Sardano, Itis Majorana**   # ** Skills, Goals, Programming, Tools, Open surce, Free Time.**
 
 ## **📖 Someting about Me**
 *I am a student learning programming and software development. I enjoy solving problems 🧩 and building small projects 🛠️ to practice my skills.*
