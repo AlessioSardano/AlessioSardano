@@ -1,4 +1,4 @@
-# **👋 Alessio Sardano, Itis Majorana**   
+# **👋 Alessio Sardano | Itis Majorana**   
 # Skills, Goals, Programming, Tools, Open surce, Free Time.
 
 ## **📖 Someting about Me**
