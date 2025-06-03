@@ -1,4 +1,4 @@
-# **👋 Alessio Sardano | Itis Majorana |  Skills, Goals, Programming, Tools, Open surce, Free Time.**   
+# **👋 Alessio Sardano | Student at ITIS Majorana | Programming, Open source, Web developmet, Real-word project.**   
 
 ## **📖 Someting about Me**
 *I am a student learning programming and software development. I enjoy solving problems 🧩 and building small projects 🛠️ to practice my skills.*
